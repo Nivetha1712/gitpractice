@@ -1,21 +1,14 @@
-<<<<<<< HEAD
+HEAD
 <<<<<<< Updated upstream
 hloooooooooooooooooooooooooooooooooooooooooohiooiiiiiiiiiiiiiiiiixjaixcjhaiodjuyedguyjhaukhdoaiu8dyudhauguqhsou
 =======
 abcdefghijklmnopqrstuvwxyz
-jadhnxujg
-hloooooooooooooooooooooooooooooooooooooooooohiooiiiiiiiiiiiiiiiiixjaixcjhaiodjuyedguyjhaukhdoaiu8dyudhauguqhsou
->>>>>>> Stashed changes
-=======
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-<<<<<<< Updated upstream
+jadhnxujUpdated upstream
 jadhnxuj
 gdaabjg
 =======
 abcdefghijklmnopqrstuvwxyz
-jadhnxujg
->>>>>>> Stashed changes
+jadhnxuj
 hloooooooooooooooooooooooooooooooooooooooooohiooiiiiiiiiiiiiiiiiixjaixcjhaiodjuyedguyjhaukhdoaiu8dyudhauguqhsou
 
 $4$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
->>>>>>> b1
